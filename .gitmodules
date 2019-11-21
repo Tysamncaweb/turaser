@@ -1,0 +1,4 @@
+[submodule "modules_turaser"]
+	path = modules_turaser
+	url = git@github.com:Tysamncaweb/modules_turaser.git
+	branch = master
